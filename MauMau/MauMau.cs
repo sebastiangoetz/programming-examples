@@ -1,4 +1,4 @@
-﻿class Karte
+﻿class TolleKarte
 {
     public string Wert { get; set; }
     public string Farbe { get; set; }
