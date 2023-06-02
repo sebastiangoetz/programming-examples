@@ -3,7 +3,7 @@
     Dictionary<int,Assassine> assassins;
     Assassine spieler;
 
-    public Spiel()
+    public Spiel2()
     {
         spieler = new Assassine(1);
         spieler.setSpiel(this);
