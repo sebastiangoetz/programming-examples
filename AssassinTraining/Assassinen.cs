@@ -5,6 +5,7 @@
 
     public Spiel2()
     {
+        System.out.println("Hallo Welt");
         spieler = new Assassine(1);
         spieler.setSpiel(this);
         assassins = new Dictionary<int, Assassine>();
