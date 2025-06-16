@@ -2,6 +2,7 @@
 {
     Dictionary<int,Assassine> assassins;
     Assassine spieler;
+    string toll;
 
     public Spiel2()
     {
